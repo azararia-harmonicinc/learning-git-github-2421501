@@ -13,4 +13,17 @@ This is a Footnote[^1]. Another Footnote[^2].
 |Five | Six   |$138.95|
 
 
+- [x] First
+	- [x] One
+	- [ ] Two
+- [ ] Second
+
+<details>
+<summary>Collapsed</summary>
+
+# Header
+
+This is the copy for the collapsed text
+</details>
+
 Plus, you'll learn how to work with the popular GitHub website to explore existing projects, clone them to your local hard drive, and use them as templates for your new projects.
